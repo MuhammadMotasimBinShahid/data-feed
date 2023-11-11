@@ -28,7 +28,7 @@ This project involves creating a command-line program in Laravel to process a lo
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MuhammadMotasimBinShahid/data-feed.git
 
 2. **Install Dependencies:**
    ```bash
